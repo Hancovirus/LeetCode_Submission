@@ -1,4 +1,4 @@
 # Leetcode_Submission
 GitHub AC submissions
 
-[LeetHub] (https://chromewebstore.google.com/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi)
+[LeetHub](https://chromewebstore.google.com/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi)
